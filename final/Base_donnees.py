@@ -4,6 +4,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 from groq import Groq
 import streamlit as st
+import sqlite3
 
 # Charger le modèle d'embedding
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
