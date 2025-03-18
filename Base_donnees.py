@@ -1,6 +1,5 @@
 import json
 import sys
-import sqlite3
 import chromadb
 from sentence_transformers import SentenceTransformer
 from groq import Groq
