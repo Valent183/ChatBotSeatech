@@ -1,0 +1,4 @@
+chromadb
+streamlit
+groq
+sentence_transformers
