@@ -2,4 +2,3 @@ chromadb
 streamlit
 groq
 sentence_transformers
-sqlite3
