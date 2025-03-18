@@ -1,0 +1,4 @@
+chromadb==0.6.3
+langchain==0.3.18
+langchain_groq==0.2.4
+streamlit==1.42.0
